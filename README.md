@@ -4,7 +4,7 @@
 Foi desenvolvido um Banco de Dados com H2;
 Aonde você pode adicionar ou alterar usuario do Banco de Dados;
 
-# Utilizamos Linguagen JAVA 
+# Utilizamos Linguagem JAVA 
 Utilizamos a IDE Eclipse;
 Utilizamos o poderoso Framework SpringToo4;
 Utilizamos JPA;
